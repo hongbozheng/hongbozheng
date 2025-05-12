@@ -1,4 +1,4 @@
-### <img src="assets/hi.gif" width="16px"> Hello world!&nbsp;<img src="assets/earth.gif" width="16px">
+### <img src="assets/hi.gif" width="16px"> Hello world!&nbsp;<img src="assets/earth.gif" width="15px">
 
 I am Hongbo Zheng
 
@@ -7,7 +7,7 @@ I am Hongbo Zheng
 
 ---
 
-### Connect with me <img src="assets/handshake.gif" height="25px">
+### 🤝 Connect with me <img src="assets/handshake.gif" height="20px">
 
 [<img src="assets/linkedin.svg" alt="linkedin logo" width="32">](https://www.linkedin.com/in/hongbo-zheng-b088581b6/)&nbsp;&nbsp;
 [<img src="assets/github.svg" alt="github logo" width="32">](https://github.com/hongbozheng)&nbsp;&nbsp;
@@ -41,11 +41,11 @@ I am Hongbo Zheng
 ### 🧠 AI / ML Frameworks
 
 <p align="left">
-  <img src="assets/pytorch.svg" alt="PyTorch" height="35" style="margin-right: 10px;"/>
-  <img src="assets/tensorflow.svg" alt="TensorFlow" height="35" style="margin-right: 10px;"/>
-  <img src="assets/keras.svg" alt="Keras" height="35" style="margin-right: 10px;"/>
-  <img src="assets/scikit-learn.svg" alt="Scikit-learn" height="35" style="margin-right: 10px;"/>
-  <img src="assets/huggingface.svg" alt="Hugging Face" height="35" style="margin-right: 10px;"/>
+  <img src="assets/pytorch.svg" alt="PyTorch" height="35"/>
+  <img src="assets/tensorflow.svg" alt="TensorFlow" height="35"/>
+  <img src="assets/keras.svg" alt="Keras" height="35"/>
+  <img src="assets/scikit-learn.svg" alt="Scikit-learn" height="35"/>
+  <img src="assets/huggingface.svg" alt="Hugging Face" height="35"/>
   <img src="assets/seaborn.svg" alt="Seaborn" height="35"/>
 </p>
 
