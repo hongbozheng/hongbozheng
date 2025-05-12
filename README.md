@@ -68,4 +68,4 @@ I am Hongbo Zheng
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=radical&exclude="")
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hongbozheng&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hongbozheng&theme=github_dark&utcOffset=-6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hongbozheng&theme=radical&utcOffset=-6)
