@@ -22,30 +22,32 @@ I am Hongbo Zheng
 
 [//]: # (https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-<!-- Languages -->
-<img src="assets/python.svg" alt="Python" height="35"/>
-<img src="assets/cpp.svg" alt="C++" height="35"/>
-<img src="assets/rust.svg" alt="Rust" height="35"/>
-<img src="assets/java.svg" alt="Java" height="35"/>
-<img src="assets/c.svg" alt="C" height="35"/>
-<img src="assets/go.svg" alt="Go" height="35"/>
-<img src="assets/bash.svg" alt="Bash" height="35"/>
-<img src="assets/matlab.svg" alt="MATLAB" height="35"/>
-<img src="assets/latex.svg" alt="LaTeX" height="35"/>
-<img src="assets/systemverilog.svg" alt="SystemVerilog" height="35"/>
-<img src="assets/vhdl.svg" alt="VHDL" height="35"/>
+<p align="left">
+  <img src="assets/python.svg" alt="Python" height="35"/>
+  <img src="assets/cpp.svg" alt="C++" height="35"/>
+  <img src="assets/rust.svg" alt="Rust" height="35"/>
+  <img src="assets/java.svg" alt="Java" height="35"/>
+  <img src="assets/c.svg" alt="C" height="35"/>
+  <img src="assets/go.svg" alt="Go" height="35"/>
+  <img src="assets/bash.svg" alt="Bash" height="35"/>
+  <img src="assets/matlab.svg" alt="MATLAB" height="35"/>
+  <img src="assets/latex.svg" alt="LaTeX" height="35"/>
+  <img src="assets/systemverilog.svg" alt="SystemVerilog" height="35"/>
+  <img src="assets/vhdl.svg" alt="VHDL" height="35"/>
+</p>
 
 ---
 
 ### 🧠 AI / ML Frameworks
 
-<!-- AI/ML -->
-<img src="assets/pytorch.svg" alt="PyTorch" height="35"/>
-<img src="assets/tensorflow.svg" alt="TensorFlow" height="35"/>
-<img src="assets/keras.svg" alt="Keras" height="35"/>
-<img src="assets/scikit-learn.svg" alt="Scikit-learn" height="35"/>
-<img src="assets/huggingface.svg" alt="Hugging Face" height="35"/>
-<img src="assets/seaborn.svg" alt="Seaborn" height="35"/>
+<p align="left">
+  <img src="assets/pytorch.svg" alt="PyTorch" height="35" style="margin-right: 10px;"/>
+  <img src="assets/tensorflow.svg" alt="TensorFlow" height="35" style="margin-right: 10px;"/>
+  <img src="assets/keras.svg" alt="Keras" height="35" style="margin-right: 10px;"/>
+  <img src="assets/scikit-learn.svg" alt="Scikit-learn" height="35" style="margin-right: 10px;"/>
+  <img src="assets/huggingface.svg" alt="Hugging Face" height="35" style="margin-right: 10px;"/>
+  <img src="assets/seaborn.svg" alt="Seaborn" height="35"/>
+</p>
 
 ---
 
@@ -63,9 +65,7 @@ I am Hongbo Zheng
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hongbozheng&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=radical&exclude="")
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=radical&exclude="")
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hongbozheng&theme=radical)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hongbozheng&theme=github_dark&utcOffset=-6)
