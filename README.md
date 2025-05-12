@@ -62,10 +62,10 @@ I am Hongbo Zheng
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M-j[%2C%20Y])](https://git.io/streak-stats)
 
 [//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hongbozheng&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=radical&exclude="")
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=radical&exclude="")
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=omni&exclude="")
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=omni&exclude="")
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hongbozheng&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hongbozheng&theme=radical&utcOffset=-6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-6)
