@@ -9,12 +9,12 @@ I am Hongbo Zheng
 
 ### 🤝 Connect with me <img src="assets/handshake.gif" height="20px">
 
-[<img src="assets/linkedin.svg" alt="linkedin logo" width="32">](https://www.linkedin.com/in/hongbo-zheng-b088581b6/)&nbsp;&nbsp;
-[<img src="assets/github.svg" alt="github logo" width="32">](https://github.com/hongbozheng)&nbsp;&nbsp;
-[<img src="assets/stackoverflow.svg" alt="stackoverflow logo" width="32">]()&nbsp;&nbsp;
-[<img src="assets/gmail.svg" alt="gmail logo" width="32">](mailto:hongbozheng1003@gmail.com)&nbsp;&nbsp;
-[<img src="assets/instagram.svg" alt="instagram logo" width="32">]()&nbsp;&nbsp;
-[<img src="assets/twitter.svg" alt="twitter logo" width="32">]()&nbsp;&nbsp;
+[<img src="assets/linkedin.svg" alt="linkedin logo" height="35">](https://www.linkedin.com/in/hongbo-zheng-b088581b6/)&nbsp;&nbsp;
+[<img src="assets/github.svg" alt="github logo" height="35">](https://github.com/hongbozheng)&nbsp;&nbsp;
+[<img src="assets/stackoverflow.svg" alt="stackoverflow logo" height="35">]()&nbsp;&nbsp;
+[<img src="assets/gmail.svg" alt="gmail logo" height="35">](mailto:hongbozheng1003@gmail.com)&nbsp;&nbsp;
+[<img src="assets/instagram.svg" alt="instagram logo" height="35">]()&nbsp;&nbsp;
+[<img src="assets/twitter.svg" alt="twitter logo" height="35">]()&nbsp;&nbsp;
 
 ---
 
@@ -67,5 +67,5 @@ I am Hongbo Zheng
 ![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=omni&exclude="")
 ![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=omni&exclude="")
 
-![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
+![](http://github-profile-summary-cards-lime.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
 ![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-6)
