@@ -1,9 +1,12 @@
-### <img src="assets/hi.gif" width="16px"> Hello world!&nbsp;<img src="assets/earth.gif" width="15px">
+<h3 align="center">
+  <img src="assets/hi.gif" height="16" alt="wave"/> Hello world! <img src="assets/earth.gif" width="14" alt="earth"/> I'm Hongbo
+</h3>
 
-I am Hongbo Zheng
+[//]: # (![]&#40;https://img.shields.io/github/followers/hongbozheng?label=Follow&style=social&#41;)
 
-![](https://img.shields.io/github/followers/hongbozheng?label=Follow&style=social)
-![](https://img.shields.io/badge/last_updated-May.12.2025-informational)
+[//]: # (![]&#40;https://img.shields.io/badge/last_updated-May.12.2025-informational&#41;)
+
+![](https://komarev.com/ghpvc/?username=hongbozheng&color=FFA500&style=flat&abbreviated=true)
 
 ---
 
@@ -71,5 +74,5 @@ I am Hongbo Zheng
 [//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
 
-![](http://github-profile-summary-cards-lime.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
+![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
 ![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-6)
