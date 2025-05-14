@@ -58,26 +58,20 @@
 
 [//]: # (https://github.com/anuraghazra/github-readme-stats/tree/master)
 ![](https://github-readme-stats-hongbozhengs-projects.vercel.app/api?username=hongbozheng&show_icons=true&include_all_commits=true&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000)
+![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
 
 ### 📈 Language Stats
 
-![](https://github-readme-stats-hongbozhengs-projects.vercel.app/api/top-langs/?username=hongbozheng&layout=compact&card_width=330&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000)
+![](https://github-readme-stats-hongbozhengs-projects.vercel.app/api/top-langs/?username=hongbozheng&layout=compact&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000&hide=Jupyter%20Notebook,SystemVerilog,Verilog,HTML,Makefile,PHP,Assembly)
 
-![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=omni&exclude="")
-![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=omni&exclude="")
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=omni&exclude=SystemVerilog,Verilog,HTML,Makefile,PHP,Assembly)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=omni&exclude=SystemVerilog,Verilog,HTML,Makefile,PHP,Assembly)
 
 ### 🔥 Contribution Stats
 
 [//]: # (https://github.com/DenverCoder1/github-readme-streak-stats/tree/main)
-[![](https://github-readme-streak-stats-hongbozhengs-projects.vercel.app?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M-j[%2C%20Y])](https://git.io/streak-stats)
-
-[//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
-
-![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
+![](https://github-readme-streak-stats-hongbozhengs-projects.vercel.app?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M-j[%2C%20Y])
 ![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-6)
 
-
-[![](https://raw.githubusercontent.com/hongbozheng/hongbozheng/main/profile-summary-card-output/omni/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hongbozheng/hongbozheng/main/profile-summary-card-output/omni/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hongbozheng/hongbozheng/main/profile-summary-card-output/omni/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hongbozheng/hongbozheng/main/profile-summary-card-output/omni/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hongbozheng/hongbozheng/main/profile-summary-card-output/omni/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
