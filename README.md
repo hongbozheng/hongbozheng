@@ -70,8 +70,9 @@
 ### 🔥 Contribution Stats
 
 [//]: # (https://github.com/DenverCoder1/github-readme-streak-stats/tree/main)
-![](https://github-readme-streak-stats-hongbozhengs-projects.vercel.app?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M-j[%2C%20Y])
-![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-6)
+![](https://github-readme-streak-stats-hongbozhengs-projects.vercel.app?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M%20j[%2C%20Y]&card_width=495)
 
 [//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
+
+![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-6)
