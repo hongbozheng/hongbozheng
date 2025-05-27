@@ -1,12 +1,16 @@
-<h3 align="center">
-  <img src="assets/hi.gif" height="16" alt="wave"/> Hello world! <img src="assets/earth.gif" width="14" alt="earth"/> I'm Hongbo
-</h3>
+<h2 align="center">
+  <img src="assets/hi.gif" height="20" alt="wave"/> Hello world! <img src="assets/earth.gif" width="18" alt="earth"/> I'm Hongbo!
+</h2>
 
 [//]: # (![]&#40;https://img.shields.io/github/followers/hongbozheng?label=Follow&style=social&#41;)
 
 [//]: # (![]&#40;https://img.shields.io/badge/last_updated-May.12.2025-informational&#41;)
 
-![](https://komarev.com/ghpvc/?username=hongbozheng&color=FFA500&style=flat&abbreviated=true)
+[//]: # (![]&#40;https://komarev.com/ghpvc/?username=hongbozheng&color=FFA500&style=flat&abbreviated=true&#41;)
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/hongbozheng/count.svg" alt="Visitor Count" height="">
+</p>
 
 ---
 
