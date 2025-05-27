@@ -9,7 +9,7 @@
 [//]: # (![]&#40;https://komarev.com/ghpvc/?username=hongbozheng&color=FFA500&style=flat&abbreviated=true&#41;)
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/hongbozheng/count.svg" alt="Visitor Count" height="">
+  <img src="https://profile-counter.glitch.me/hongbozheng/count.svg" alt="Visitor Count" height="30">
 </p>
 
 ---
