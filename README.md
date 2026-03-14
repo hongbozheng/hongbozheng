@@ -84,7 +84,8 @@
 
 ### 🔥 Contribution Stats
 
-![](https://github-readme-streak-stats-hongbozhengs-projects.vercel.app?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M%20j[%2C%20Y]&card_width=495)
+[//]: # (https://github-readme-streak-stats-hongbozheng.vercel.app?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M%20j[%2C%20Y]&card_width=495)
+![](https://streak-stats.demolab.com/?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M%20j[%2C%20Y]&card_width=495)
 
 ![](https://github-profile-summary-cards-hongbozheng.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
 
