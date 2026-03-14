@@ -33,9 +33,11 @@
 <p align="left">
   <img src="assets/python.svg" alt="Python" height="35"/>
   <img src="assets/cpp.svg" alt="C++" height="35"/>
-  <img src="assets/rust.svg" alt="Rust" height="35"/>
-  <img src="assets/java.svg" alt="Java" height="35"/>
   <img src="assets/c.svg" alt="C" height="35"/>
+  <img src="assets/rust.svg" alt="Rust" height="35"/>
+  <img src="assets/cuda.svg" alt="C" height="35"/>
+  <img src="assets/triton.png" alt="C" height="35"/>
+  <img src="assets/java.svg" alt="Java" height="35"/>
   <img src="assets/go.svg" alt="Go" height="35"/>
   <img src="assets/bash.svg" alt="Bash" height="35"/>
   <img src="assets/matlab.svg" alt="MATLAB" height="35"/>
@@ -69,23 +71,21 @@
 
 ### 📊 GitHub Stats
 
-[//]: # (https://github.com/anuraghazra/github-readme-stats/tree/master)
-![](https://github-readme-stats-hongbozhengs-projects.vercel.app/api?username=hongbozheng&show_icons=true&include_all_commits=true&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000)
-![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
+[//]: # (https://github-readme-stats-hongbozheng.vercel.app/api?username=hongbozheng&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000)
+![](https://github-readme-stats-hongbozheng.vercel.app/api?username=hongbozheng&show_icons=true&include_all_commits=true&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000)
+![](http://github-profile-summary-cards-hongbozheng.vercel.app/api/cards/stats?username=hongbozheng&theme=omni)
 
 ### 📈 Language Stats
 
-![](https://github-readme-stats-hongbozhengs-projects.vercel.app/api/top-langs/?username=hongbozheng&layout=compact&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000&hide=Jupyter%20Notebook,SystemVerilog,Verilog,HTML,Makefile,PHP,Assembly)
+![](https://github-readme-stats-hongbozheng.vercel.app/api/top-langs/?username=hongbozheng&layout=compact&title_color=FFC0CB&text_color=00FFFF&icon_color=FFA500&bg_color=000000&hide=Jupyter%20Notebook,Verilog,SystemVerilog,HTML,Makefile,PHP,Tcl)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=omni&exclude=SystemVerilog,Verilog,HTML,Makefile,PHP,Assembly)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=omni&exclude=SystemVerilog,Verilog,HTML,Makefile,PHP,Assembly)
+![](https://github-profile-summary-cards-hongbozheng.vercel.app/api/cards/repos-per-language?username=hongbozheng&theme=omni&exclude=Verilog)
+![](https://github-profile-summary-cards-hongbozheng.vercel.app/api/cards/most-commit-language?username=hongbozheng&theme=omni&exclude={})
 
 ### 🔥 Contribution Stats
 
-[//]: # (https://github.com/DenverCoder1/github-readme-streak-stats/tree/main)
 ![](https://github-readme-streak-stats-hongbozhengs-projects.vercel.app?user=hongbozheng&background=000000&ring=FFC0CB&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFC0CB&date_format=M%20j[%2C%20Y]&card_width=495)
 
-[//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
+![](https://github-profile-summary-cards-hongbozheng.vercel.app/api/cards/profile-details?username=hongbozheng&theme=omni)
 
-![](http://github-profile-summary-cards-hongbozhengs-projects.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-5)
+![](http://github-profile-summary-cards-hongbozheng.vercel.app/api/cards/productive-time?username=hongbozheng&theme=omni&utcOffset=-5)
